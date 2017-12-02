@@ -1,0 +1,27 @@
+{
+    "author": "ethanzeigler@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "stress",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "The Stress Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "5eb0c83c-5f32-49d9-a723-e565e96b4203",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
